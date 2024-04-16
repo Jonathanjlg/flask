@@ -26,6 +26,7 @@ def get_materias():
 
 
 
+
 #executar a API
 app.run()
 
